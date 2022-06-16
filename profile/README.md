@@ -1,2 +1,2 @@
-  - 👋: `Investments-Manager-Research` contains the repos used by the Manager Research team in the Investments LOB of WTW
+  - 👋: `Investments-Manager-Research` contains the repos used by the Manager Research team of the Investments LOB (with Health, Wealth & Career)
   - 🤷: This team researches asset managers in qualitative and quantitative ways in order to find the best investment products for our clients to use in their portfolios. We have a strong track-record of success in this area
